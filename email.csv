@@ -1,0 +1,7 @@
+text,label
+"Congratulations! You won a prize click here",phishing
+"Your account has been suspended login now",phishing
+"Meeting scheduled for tomorrow",safe
+"Let's have lunch today",safe
+"Update your bank details urgently",phishing
+"Project discussion at 5 PM",safe
